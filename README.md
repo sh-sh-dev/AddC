@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# What is this?
 
-You can use the [editor on GitHub](https://github.com/sh-sh-dev/AddC/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+**AddC** is a Wordpress Plugin for access to After and Before the posts `Title` And `Content`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Full Description
 
-### Markdown
+a Wordpress Plugin for access to After and Before the posts `Title` And `Content`
+For example, you can add the text of the article \"in the name of God\" and add the end of the posts \"Thank you for reading this post.\"
+tip ! This plugin supports html, for example you can write
+`<p class="Your_Class">Your Text</p>`
+OR
+`<mark style="text-align:center">Hi Visitors</mark>`
+Enjoy :) !
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Installation
 
-```markdown
-Syntax highlighted code block
+Install the plugin and then go to the \"AddC Settings\" in the dashboard.
+Fill in the fields and enjoy.
 
-# Header 1
-## Header 2
-### Header 3
+#### Frequently Asked Questions
 
-- Bulleted
-- List
+- Can I use html?
+Yes
+- How to install?
+Read the Installation
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+##### Changelog
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sh-sh-dev/AddC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-v1.0.0
+Write Plugin !
