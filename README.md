@@ -1,58 +1,59 @@
-=== AddC ===
-Contributors: shaygan
-Donate link: https://zarinp.al/@shaygan
-Tags: AddC,Add custom text afrer and before wordpress title,Add custom text afrer and before wordpress content
-Requires at least: 1
-Tested up to: 4.8.1
-Stable tag: 1.1
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+# AddC
 
-a Plugin for access to before and after the title and content posts
+**AddC** is a Wordpress Plugin for access to After and Before the posts **_Title_** And **_Content_**
 
-== Description ==
+## Full Description
 
-a Plugin for access to before and after the title and content posts
+a Wordpress Plugin for access to After and Before the posts `Title` And `Content`
+
 For example, you can add the text of the article "in the name of God" and add the end of the posts "Thank you for reading this post."
-tip ! This plugin supports html, for example you can write
+
+#### **Tip** This Plugin Support _html_ And You Can Write _html_ !
+
+
+```html
 <p class="Your_Class">Your Text</p>
+```
+
 OR
+
+```html
 <mark style="text-align:center">Hi Visitors</mark>
+```
+
 Enjoy :) !
 
-== Installation ==
+## Installation
 
-This section describes how to install the plugin and get it working.
+Install the plugin and then go to the "AddC Settings" in the dashboard.
 
-e.g.
+Fill in the fields and enjoy.
 
-1. Upload `AddC.zip` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. go to the "AddC Settings" in the dashboard.
+## Frequently Asked Questions
 
-== Frequently Asked Questions ==
+- Can I use html?
 
-= Can I use html? =
+Yes
 
-Yes , See Description.
+- How to install?
 
-= How to use? =
+Read the [Installation](https://github.com/sh-sh-dev/AddC#Installation)
 
-Go to the "AddC Settings" in the dashboard and fill inputs !
+## Author
 
-== Screenshots ==
++ [Shaygan Shokrollahi](https://github.com/sh-sh-dev)
 
-1. AddC in Admin Dashboard
+## Changelog
 
-== Changelog ==
+-v1.0.0
+Write Plugin !
 
-= 1.1 =
-* Fix Readme and some.
+## Donate
 
-= 1.0 =
-* Write Plugin !
+You Can Donate AddC By This Link : [Donate AddC](https://zarinp.al/@shaygan)
 
-== Upgrade Notice ==
+## License
 
-= 1.0 =
-* Write Plugin !
+AddC is under license
+
+**GPLv2**
